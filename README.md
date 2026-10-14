@@ -6,11 +6,11 @@ I'm Francisco Madrigal, this is my personal repo. Here you can find some persona
 
 📍MSc student in Data Science from the Polytechnic University of Madrid
 
-📍Junior Data Scientist in Fabrick
+📍AI | Software Engineer in Bluetab - an IBM Company
 
-📍Appasionate on Fintech and Data Science
+📍Appasionate on AI and Data Science
 
-📍Hands-on experience in analyzing data sets, building data pipelines and working with machine learning models.
+📍Hands-on experience in AI agentic workflows, Knowledge Graphs, building data pipelines and working with ML and Generative models.
 
 
 ## 🌐 How to reach me:
